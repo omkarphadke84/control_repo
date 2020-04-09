@@ -1,3 +1,3 @@
 class profile::db {
-  include '::mysql::server'
+  include 'mysql::server'
 }
